@@ -3,6 +3,8 @@ What Am I ?
 
 A simple Django project to demonstrate uploading and tweeting an image stored in S3 using django-storages.
 
+This exists to support my answer on this StackOverflow question: http://stackoverflow.com/a/38191531/484127
+
 .. code-block:: bash
 
 
